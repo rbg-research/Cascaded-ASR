@@ -1,4 +1,4 @@
-# t-SEED: Multilingual Speech Recognizer for Tamil and English Languages
+# Cascaded-ASR: A Scalable Multilingual Speech Recognizer for Tamil and English Languages
 This repo contains code for reproducing results in "t-SEED: Multilingual Speech Recognizer for Tamil and English Languages".
 
 
@@ -21,8 +21,8 @@ This repo contains code for reproducing results in "t-SEED: Multilingual Speech 
 
 ### Getting the Repository
 ```angular2html
-git clone https://github.com/rbg-research/t-seed
-cd t-seed
+git clone https://github.com/rbg-research/Cascaded-ASR
+cd Cascaded-ASR
 ```
 
 ### Installation and Setup
